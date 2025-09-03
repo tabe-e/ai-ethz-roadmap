@@ -1,2 +1,2 @@
-# ai-ethz-roadmap
-My ETH Zurich AI Master's preparation practice codes.
+# ai_roadmap
+My AI Master's preparation practice codes.
